@@ -139,14 +139,14 @@
   </a>
 </p>
 
----
+
 
 ## 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=jiyavishwanath&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
---
+
 
 ## 🏆 Certifications
 
@@ -182,7 +182,6 @@
 <img src="https://img.shields.io/badge/SQL-Query_Optimization-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </p>
----
 
 
 
